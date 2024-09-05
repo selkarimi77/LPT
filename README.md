@@ -1,5 +1,5 @@
 # LPT_Ship Case Study: Analyzing Shipper and Customer Profitability
-
+![img](img/lpt.jpg)
 ## Project Overview
 This project focused on improving the performance of LPT Shipping by analyzing the different shippers and customer. The objective was to identify which shippers should be more actively engaged and which customers generated the highest profits. This analysis provided actionable insights to optimize the company’s logistics strategy and enhance overall profitability.
 
