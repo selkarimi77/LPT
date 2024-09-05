@@ -11,7 +11,7 @@ This project focused on improving the performance of LPT Shipping by analyzing t
 
 ## Methodology
 <p align="center">
-  <img src="img/g30108.png" alt="img" />
+  <img src="img/g30828.png" alt="img" />
 </p>
 
 ### Data Collection and Preparation:
