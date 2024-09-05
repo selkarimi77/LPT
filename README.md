@@ -35,6 +35,10 @@ This project focused on improving the performance of LPT Shipping by analyzing t
 - Recommended increased engagement with **D. Express** due to its efficiency and underutilization.
 - Determined that **ova**, **E.Software**, and **S.Soda** are the most profitable customers, with a recommendation to increase their delivery frequency, particularly with more efficient shippers.
 
+  <p align="center">
+  <img src="img/lpt_graphics.png" alt="img" />
+</p>
+
 ## Key Skills Demonstrated
 - **Data Cleaning and Preparation:** Expertise in handling and cleaning real-world data, resolving inconsistencies, and preparing datasets for analysis.
 - **Data Modeling:** Ability to define and model KPIs, create relationships between data entities, and perform complex analyses using Pyramid Analytics.
