@@ -13,6 +13,7 @@ This project focused on improving the performance of LPT Shipping by analyzing t
 <p align="center">
   <img src="img/g30108.png" alt="img" />
 </p>
+
 ### Data Collection and Preparation:
 - Collected raw data related to shippers, customers, delivery numbers, and profits.
 - Cleaned and standardized data, addressing inconsistencies such as non-homogeneous attributes and improper formats (e.g., billable rate per mile column).
