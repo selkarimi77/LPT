@@ -21,6 +21,10 @@ This project focused on improving the performance of LPT Shipping by analyzing t
 ### Data Modeling:
 - Defined key performance indicators (KPIs) for analysis, including profit, number of deliveries, and delivery delays.
 - Used data modeling techniques within **Pyramid Analytics** to create relationships between shippers, customers, and deliveries.
+- 
+<p align="center">
+  <img src="img/modelisation.png" alt="img" />
+</p>
 
 ### KPI Analysis:
 - Performed statistical analysis, including aggregations and histograms, to explore correlations between KPIs.
