@@ -1,5 +1,6 @@
-title: Project : LPT Shipping
+title: "Project: LPT Shipping"
 logo: /file/logo.png
 #description: Data Analyst Consultant Power BI
 #show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+
